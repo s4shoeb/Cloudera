@@ -2,6 +2,11 @@
 		Cloudera Enterprise - Deployment
 ******************************************************************
 
+Ubuntu 16 AMI ID
+(N.Virginia) :    ami-0ea6ebbac3980d5c2
+(Oregon):    ami-02c8896b265d8c480
+
+
 Start a instance with minimum 8 GB ram (preferably m4.large)
 
 In seccurity group - Select "Default" security group
